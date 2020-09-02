@@ -1,0 +1,83 @@
+2020-09-02 21:44:58,397 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-02 21:46:40,373 [Worker-10: 入門コンテンツのインポート] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring-boot2:0.0.1-SNAPSHOT @ C:\Users\ladyr\Documents\proglaming_practice\spring-boot2\spring-boot2\pom.xml.
+2020-09-02 21:46:48,627 [Worker-10: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot2/src/main/java
+2020-09-02 21:46:48,628 [Worker-10: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot2/src/main/resources
+2020-09-02 21:46:48,646 [Worker-10: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot2/src/main/resources
+2020-09-02 21:46:48,669 [Worker-10: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot2/src/test/java
+2020-09-02 21:47:02,116 [Worker-10: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 27 sec
+2020-09-02 21:47:02,123 [Worker-10: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-02 21:47:04,142 [Worker-10: 入門コンテンツのインポート] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring-boot2:0.0.1-SNAPSHOT @ C:\Users\ladyr\Documents\proglaming_practice\spring-boot2\spring-boot2\pom.xml.
+2020-09-02 21:47:05,777 [Worker-10: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot2/src/main/java
+2020-09-02 21:47:05,780 [Worker-10: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot2/src/main/resources
+2020-09-02 21:47:05,788 [Worker-10: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot2/src/main/resources
+2020-09-02 21:47:05,801 [Worker-10: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot2/src/test/java
+2020-09-02 21:47:07,557 [Worker-10: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2020-09-02 21:47:08,537 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-02 21:47:10,215 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring-boot2:0.0.1-SNAPSHOT @ C:\Users\ladyr\Documents\proglaming_practice\spring-boot2\spring-boot2\pom.xml.
+2020-09-02 21:47:12,040 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot2/src/main/java
+2020-09-02 21:47:12,042 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot2/src/main/resources
+2020-09-02 21:47:12,043 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot2/src/main/resources
+2020-09-02 21:47:12,046 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot2/src/test/java
+2020-09-02 21:47:12,736 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2020-09-02 21:47:12,746 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-02 21:47:15,073 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring-boot2:0.0.1-SNAPSHOT @ C:\Users\ladyr\Documents\proglaming_practice\spring-boot2\spring-boot2\pom.xml.
+2020-09-02 21:47:17,254 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot2/src/main/java
+2020-09-02 21:47:17,255 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot2/src/main/resources
+2020-09-02 21:47:17,255 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot2/src/main/resources
+2020-09-02 21:47:17,257 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot2/src/test/java
+2020-09-02 21:47:17,666 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2020-09-02 21:47:17,672 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-02 21:47:20,484 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring-boot2:0.0.1-SNAPSHOT @ C:\Users\ladyr\Documents\proglaming_practice\spring-boot2\spring-boot2\pom.xml.
+2020-09-02 21:47:22,890 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot2/src/main/java
+2020-09-02 21:47:22,894 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot2/src/main/resources
+2020-09-02 21:47:22,895 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot2/src/main/resources
+2020-09-02 21:47:22,897 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot2/src/test/java
+2020-09-02 21:47:23,524 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2020-09-02 21:47:23,530 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-02 21:47:24,789 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring-boot2:0.0.1-SNAPSHOT @ C:\Users\ladyr\Documents\proglaming_practice\spring-boot2\spring-boot2\pom.xml.
+2020-09-02 21:47:26,819 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot2/src/main/java
+2020-09-02 21:47:26,820 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot2/src/main/resources
+2020-09-02 21:47:26,821 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot2/src/main/resources
+2020-09-02 21:47:26,823 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot2/src/test/java
+2020-09-02 21:47:27,434 [Worker-3: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2020-09-02 21:47:29,146 [Worker-0: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 21:47:29,185 [Worker-0: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 21:47:29,224 [Worker-0: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 21:47:29,234 [Worker-0: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 21:47:29,234 [Worker-0: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ladyr\Documents\proglaming_practice\spring-boot2\spring-boot2\src\test\resources
+2020-09-02 21:49:50,741 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 21:49:50,758 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 21:49:50,767 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 21:49:50,771 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 21:49:50,771 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ladyr\Documents\proglaming_practice\spring-boot2\spring-boot2\src\test\resources
+2020-09-02 21:58:31,489 [Worker-3: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 21:58:31,492 [Worker-3: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 21:58:31,496 [Worker-3: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 21:58:31,500 [Worker-3: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 21:58:31,501 [Worker-3: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ladyr\Documents\proglaming_practice\spring-boot2\spring-boot2\src\test\resources
+2020-09-02 21:59:26,157 [Worker-3: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 21:59:26,159 [Worker-3: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 21:59:26,161 [Worker-3: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 21:59:26,181 [Worker-3: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 21:59:26,181 [Worker-3: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ladyr\Documents\proglaming_practice\spring-boot2\spring-boot2\src\test\resources
+2020-09-02 22:01:56,075 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 22:01:56,086 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-02 22:01:56,087 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 22:01:56,098 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 22:01:56,098 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ladyr\Documents\proglaming_practice\spring-boot2\spring-boot2\src\test\resources
+2020-09-02 22:06:37,760 [Worker-19: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 22:06:37,763 [Worker-19: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 22:06:37,768 [Worker-19: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 22:06:37,775 [Worker-19: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 22:06:37,776 [Worker-19: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ladyr\Documents\proglaming_practice\spring-boot2\spring-boot2\src\test\resources
+2020-09-02 22:10:13,877 [Worker-13: spring-boot2 - SpringBoot2Application の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 22:10:13,881 [Worker-13: spring-boot2 - SpringBoot2Application の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 22:10:13,885 [Worker-13: spring-boot2 - SpringBoot2Application の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 22:10:13,888 [Worker-13: spring-boot2 - SpringBoot2Application の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 22:10:13,888 [Worker-13: spring-boot2 - SpringBoot2Application の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ladyr\Documents\proglaming_practice\spring-boot2\spring-boot2\src\test\resources
+2020-09-02 22:14:29,376 [Worker-22: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 22:14:29,379 [Worker-22: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 22:14:29,405 [Worker-22: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-02 22:14:29,410 [Worker-22: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-02 22:14:29,410 [Worker-22: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ladyr\Documents\proglaming_practice\spring-boot2\spring-boot2\src\test\resources
+2020-09-02 22:16:18,837 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

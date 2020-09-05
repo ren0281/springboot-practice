@@ -81,3 +81,15 @@
 2020-09-02 22:14:29,410 [Worker-22: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-02 22:14:29,410 [Worker-22: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ladyr\Documents\proglaming_practice\spring-boot2\spring-boot2\src\test\resources
 2020-09-02 22:16:18,837 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-03 18:24:45,369 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-05 09:08:48,446 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-09-05 09:46:32,674 [Worker-17: spring-boot2 - SpringBoot2Application の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-05 09:46:32,682 [Worker-17: spring-boot2 - SpringBoot2Application の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-05 09:46:32,698 [Worker-17: spring-boot2 - SpringBoot2Application の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-05 09:46:32,706 [Worker-17: spring-boot2 - SpringBoot2Application の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-05 09:46:32,706 [Worker-17: spring-boot2 - SpringBoot2Application の起動] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ladyr\Documents\proglaming_practice\spring-boot2\spring-boot2\src\test\resources
+2020-09-05 09:53:01,677 [Worker-21: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-05 09:53:01,685 [Worker-21: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-05 09:53:01,685 [Worker-21: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-05 09:53:01,693 [Worker-21: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-05 09:53:01,693 [Worker-21: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ladyr\Documents\proglaming_practice\spring-boot2\spring-boot2\src\test\resources
